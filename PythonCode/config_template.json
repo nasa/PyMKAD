@@ -1,0 +1,19 @@
+{
+    "name":"RUN_ID",
+    "filelist":"/path/to/filelist_of_gzip_csvs.txt",
+    "working_dir":"/path/to/working/directory/",
+    "svmlight_file":"/path/to/svmlight/filename.txt",
+    "MKAD_folder":"/path/to/mkad/output/folder/",
+    "important_params":{"alt":"ALTITUDE",
+                        "td_indicator":"LANDING GEAR COMPRESSED",
+			"ground_speed": "GRND SPEED"},
+    "params":{"continuous":"/path/to/continuous/parameter/continuous_parameter_list.txt",
+              "discrete":"/path/to/continuous/parameter/discrete_parameter_list.txt"},
+    "nu":0.1,
+    "alphabet":10,
+    "window_size":30, 
+    "starting_alt":6000,
+    "cluster_eps":0.07,
+    "save_kernel":true,
+    "use_existing_kernel":false
+}
