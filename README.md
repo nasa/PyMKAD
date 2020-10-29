@@ -13,7 +13,7 @@ The source code of the repository includes: preprocessing modules, the main mkad
 Documents describing how to configure and run the program, as well as how to interpret the results. 
 
 
-* [MKAD NOSA 2019.pdf](MKAD%20NOSA%2019.pdf)  
+* [MKAD NOSA 2019.pdf](MKAD%20NOSA%202019.pdf)  
 Licensing for MKAD
 
 
@@ -24,8 +24,6 @@ Licensing for MKAD
 NASA Point of contact: Nikunj Oza <nikunj.c.oza@nasa.gov>, Data Science Group Lead.
 
 For questions regarding the research and development of the algorithm, please contact Bryan Matthews <bryan.l.matthews@nasa.gov>, Senior Research Engineer.
-
-For questions regarding the source code, please contact Daniel Weckler <daniel.i.weckler@nasa.gov>, Software Engineer.
 
 
 ## Copyright and Notices
